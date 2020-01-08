@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ATipCalculator
 //
-// This is the program for all the buttons to functon.
+// This is the program for all the buttons to functon. Controls the UI
 //
 //  Created by Roy Perlman on 12/30/19.
 //  Copyright © 2019 Roy Perlman. All rights reserved.
